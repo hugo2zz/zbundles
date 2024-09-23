@@ -1,0 +1,4 @@
+numpy==1.26.4
+pandas==2.2.2
+pycookiecheat==0.7.0
+requests==2.32.3
